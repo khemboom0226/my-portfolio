@@ -11,7 +11,7 @@ import {
   ListGroup,
   Accordion,
 } from 'react-bootstrap'
-import heroImg from './assets/hero.png'
+import myLogo from './assets/khg-logo.png'
 import './App.css'
 
 function App() {
@@ -56,7 +56,7 @@ function App() {
               </Col>
               <Col lg={5} className="text-center mt-4 mt-lg-0">
                 <Card className="hero-card p-3 border-0 shadow-sm">
-                  <Card.Img variant="top" src={heroImg} alt="Portrait illustration" className="rounded" />
+                  <Card.Img variant="top" src={myLogo} alt="Portrait illustration" className="rounded" />
                   <Card.Body>
                     <Card.Title className="mb-1">Front End Developer</Card.Title>
                     <Card.Text className="text-muted mb-0">
