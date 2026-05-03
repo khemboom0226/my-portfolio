@@ -74,7 +74,7 @@ function App() {
             <div className="section-header mb-4">
               <h2>About</h2>
               <p className="text-muted mb-0">
-                Full-stack developer with expertise in front-end and back-end technologies.
+                Front-End developer with expertise in front-end and back-end technologies.
               </p>
             </div>
             <Row className="g-4">
